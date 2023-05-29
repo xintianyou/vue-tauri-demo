@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
-    "@tauri-apps/api": "^1.3.0"
+    "@tauri-apps/api": "^1.3.0",
+    "pinia": "^2.0.32",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
